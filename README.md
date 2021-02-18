@@ -1,4 +1,8 @@
-I am creating a max heap using an Array of Integers obtained from a file
-and my output is another file.
+This is the other project on my resume.
+This project came from my CS2400 class at Cal Poly Pomona.
 
-I didn't pay much attention to the security becuase it wasn't required(class project)
+What I did:
+I created a max heap using an Array of Integers obtained from a file
+and outputted my result as a textfile.
+
+Notes: I didn't pay much attention to the security becuase it wasn't required
